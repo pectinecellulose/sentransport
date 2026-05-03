@@ -1,0 +1,16 @@
+.statistique {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 12px;
+  margin: 8px 0;
+  max-width: 200px;
+}
+
+.statistique-chiffre {
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+.statistique-libelle {
+  color: #555;
+}
