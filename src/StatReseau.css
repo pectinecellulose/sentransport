@@ -1,0 +1,28 @@
+.stat-reseau {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-bottom: 24px;
+}
+
+.stat-reseau-card {
+  flex: 1 1 180px;
+  background-color: #ffffff;
+  border: 1px solid #dcdcdc;
+  border-radius: 12px;
+  padding: 16px;
+  min-width: 180px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+}
+
+.stat-reseau-valeur {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #2c3e50;
+}
+
+.stat-reseau-label {
+  margin-top: 8px;
+  color: #7f8c8d;
+  font-size: 0.95rem;
+}
